@@ -1,8 +1,8 @@
 # Hometask6-Terraform
 
-AWS_public_ip = http://3.91.52.102/login 
+AWS_public_ip = http://3.91.52.102 
 
-Azure_public_ip = http://20.224.205.9/login
+Azure_public_ip = http://20.224.205.9
 
 ![](photo_2022-12-31_18-18-54.jpg) ![](photo_2022-12-31_18-18-59.jpg)
 
