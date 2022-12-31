@@ -1,9 +1,9 @@
 /* Terraform main file */
 
 module "aws_grafana" {
-  source = "./aws" 
+  source = "./modules/aws" 
 }
 
 module "azure_grafana" {
-  source = "./azure"
+  source = "./modules/azure"
 }
